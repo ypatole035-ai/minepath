@@ -27,14 +27,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build web app
-        run: npm run build
-
       - name: Install Capacitor
         run: npm install @capacitor/core @capacitor/cli @capacitor/android
 
-      - name: Init Capacitor
-        run: npx cap init "MinePath" "com.devenlucaz.minepath" --web-dir=dist
+      - name: Build web app
+        run: npm run build
 
       - name: Add Android platform
         run: npx cap add android
