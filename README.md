@@ -12,6 +12,8 @@ No hearts. No retries. One wrong tap and you're done.
 
 🌐 **[Play in Browser — No install needed](https://ypatole035-ai.github.io/minepath/)**
 
+[Download APK](https://github.com/ypatole035-ai/minepath/releases/latest/download/MINEPATH-V1.apk)
+
 Works on any mobile browser. Just open and play.
 
 ---
