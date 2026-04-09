@@ -1,54 +1,57 @@
-# MINEPATH
+# 💣 MINEPATH
 
-MINEPATH is a chicken-themed browser game built using React, Vite, and Tailwind CSS. The game features an engaging environment where players navigate through various challenges, all while enjoying the fun of chicken-themed gameplay.
+> *One chicken. One minefield. No second chances.*
 
-## Project Structure
+MINEPATH is a browser-based minesweeper survival game. Navigate a hidden minefield tile by tile, find the checkpoint, and get out before the timer runs out — or before you step on something that ends your run instantly.
 
-The project's directory structure is organized as follows:
+No hearts. No retries. One wrong tap and you're done.
 
-```
-src/
-├── components/
-├── audio/
-├── data/
-├── store/
-├── styles/
-└── utils/
-```
+---
 
-- **components/**: Contains all React components used in the game.
-- **audio/**: Houses the audio files for sound effects and music.
-- **data/**: Stores all the game data including levels, scores, and player information.
-- **store/**: Manages the state of the application using a centralized store.
-- **styles/**: Contains all the Tailwind CSS styles and custom stylesheets.
-- **utils/**: Contains utility functions and helpers that are used throughout the application.
+## Play Now
 
-## Installation Instructions
+🌐 **[Play in Browser — No install needed](https://ypatole035-ai.github.io/minepath/)**
 
-To get started with MINEPATH, follow these steps:
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/ypatole035-ai/minepath.git
-   ```
-2. Navigate to the project directory:  
-   ```bash
-   cd minepath
-   ```
-3. Install the required dependencies:  
-   ```bash
-   npm install
-   ```
+Works on any mobile browser. Just open and play.
 
-## Development Commands
+---
 
-To start the development server, run:
-```bash
-npm run dev
-```
+## How to Play
 
-This command will start the Vite development server, allowing you to see your changes in real-time. To build the project for production, use:
-```bash
-npm run build
-```
+- Tap tiles to reveal them
+- Avoid mines hidden across the grid
+- Reach the **checkpoint tile** in the corner to clear the level
+- Collect **seeds** by surviving
+- Use **power-ups** hidden in safe tiles — shields, slow-mo, reveals, double score
+- Timer drains faster as levels increase — not just shorter, actually faster
 
-Happy gaming!
+Step on a mine → instant game over. No hearts. No cushion.
+
+---
+
+## What This Version Is
+
+This is MINEPATH V1 — the original. One world, no shop progression, no skins with abilities, no world system. Just the core loop that started everything.
+
+The difficulty scales through 20+ levels by increasing mine density, timer drain speed, grid size, and fake-safe tiles that look safe but aren't.
+
+It's raw. That rawness is what made it addictive.
+
+---
+
+## Then Try V5
+
+Five versions later, MINEPATH is a full Android game — 4 worlds, 40+ levels, skins with passive abilities, combo multiplier up to 10x, shop, achievements, boss levels, moving mines, lava tiles, gravity flips.
+
+📲 **[Download MINEPATH V5 APK](https://github.com/ypatole035-ai/MinepathV5/releases/latest/download/MINEPATH.apk)**
+
+🔗 **[MINEPATH V5 Repository](https://github.com/ypatole035-ai/MinepathV5)**
+
+Play V1 first. Then see what five iterations look like.
+
+---
+
+## Built By
+
+**DeVen — [DeVenLucaz](https://github.com/ypatole035-ai)**
+Built on Android, no PC, using AI tools and termux.
