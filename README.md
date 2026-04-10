@@ -64,4 +64,7 @@ Play V1 first. Then see what five iterations look like.
 ## Built By
 
 **DeVen — [DeVenLucaz](https://github.com/ypatole035-ai)**
-Built on Android, no PC, using AI tools and termux.
+Independent creator. Pune, India.
+Building games, music, and interactive fiction entirely on Android with AI assistance.
+
+⭐ If this project is interesting to you — as a game, as an experiment, or as proof that the tools have changed — a star on the repo means something.
