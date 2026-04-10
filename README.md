@@ -55,8 +55,6 @@ Play V1 first. Then see what five iterations look like.
 
 ## Other Games
 
-## Other Games
-
 | Game | Play |
 |---|---|
 | 🔓 WORD HEIST V1 — Vault cracking word game (original) | [Play](https://ypatole035-ai.github.io/word-heist/) |
